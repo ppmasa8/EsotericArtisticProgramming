@@ -13,9 +13,10 @@ END
 # メイン
 code = <<'END'
   3.times { 
+    00;
     puts "Hello%c:-%c" % [32, 41]
   }
-  #######
+#YE.
 END
 
 # 空白or改行の除外
