@@ -18,3 +18,4 @@ code = code.split.join
 code = ascii_art.gsub("#"){code.slice!(0, 1)}
 
 puts code
+
